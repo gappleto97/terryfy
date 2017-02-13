@@ -23,7 +23,7 @@ LATEST_3p2=3.2.6
 LATEST_3p3=3.3.5
 LATEST_3p4=3.4.4
 LATEST_3p5=3.5.3
-LATEST_3p6=3.6.0rc2
+LATEST_3p6=3.6.0
 
 
 function fill_pyver {
